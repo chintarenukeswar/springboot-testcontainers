@@ -1,12 +1,13 @@
 package com.example.firstapp.configuration;
 
+import com.example.firstapp.model.Customer;
+import com.example.firstapp.repository.CustomerRepository;
 import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 import java.util.List;
-import java.util.stream.Stream;
 
 @Configuration
 public class BasicConfiguration {

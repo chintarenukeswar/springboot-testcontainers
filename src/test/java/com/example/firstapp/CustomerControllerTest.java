@@ -3,8 +3,8 @@ package com.example.firstapp;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.hasSize;
 
-import com.example.firstapp.configuration.Customer;
-import com.example.firstapp.configuration.CustomerRepository;
+import com.example.firstapp.model.Customer;
+import com.example.firstapp.repository.CustomerRepository;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import java.util.List;

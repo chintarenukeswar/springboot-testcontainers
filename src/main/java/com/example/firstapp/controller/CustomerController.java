@@ -1,7 +1,7 @@
 package com.example.firstapp.controller;
 
-import com.example.firstapp.configuration.Customer;
-import com.example.firstapp.configuration.CustomerRepository;
+import com.example.firstapp.model.Customer;
+import com.example.firstapp.repository.CustomerRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

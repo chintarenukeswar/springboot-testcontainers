@@ -1,4 +1,4 @@
-package com.example.firstapp.configuration;
+package com.example.firstapp.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
