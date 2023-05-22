@@ -11,7 +11,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.testcontainers</groupId>
-	<artifactId>tc-guide-testing-spring-boot-rest-api</artifactId>
+	<artifactId>springboot-testcontainers</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tc-guide-testing-spring-boot-rest-api</name>
 	<description>Getting started with Testcontainers in a Java SpringBoot Project</description>
